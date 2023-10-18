@@ -1,0 +1,21 @@
+{
+    "1": {
+        "nombre": "Pikachu",
+        "clasificacion": "electrico",
+        "imagen" : "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Pro-9-Signature-Keyboard-Sapphire-FY24BTS:VP4-1399x600",
+        "imagen2":"https://pokefanaticos.com/pokedex/assets/images/pokemon_imagenes/25.png"
+    },
+    "2": {
+        "nombre": "Charizard",
+        "clasificacion": "No lo se",
+        "imagen" : "https://www.oracle.com/node/oce/storyhub/prod/api/v1.1/assets/CONTC4D1ECEE4B374F5D8B3E5CCD9DAB3C26/native/rh09v3-ai.jpg",
+        "imagen2": "https://pokefanaticos.com/pokedex/assets/images/pokemon_imagenes/6.png"
+    },
+    "3": {
+        "nombre": "Charmander",
+        "clasificacion": "No lo se",
+        "imagen" : "https://www.oracle.com/node/oce/storyhub/prod/api/v1.1/assets/CONTC4D1ECEE4B374F5D8B3E5CCD9DAB3C26/native/rh09v3-ai.jpg",
+        "imagen2": "https://pokefanaticos.com/pokedex/assets/images/pokemon_imagenes/4.png"
+    }
+
+}
